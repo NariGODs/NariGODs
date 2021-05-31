@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NariGODs
+- 👀 I’m interested in Tecnology
+- 🌱 I’m currently learning Python and JavaScript
